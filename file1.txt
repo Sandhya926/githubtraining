@@ -1,2 +1,2 @@
 this is the test file1
-revert commit 2
+tis is commit reset1
